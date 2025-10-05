@@ -4,7 +4,7 @@ This repo contains some models for furniture I designed and/or built. I used Fre
 
 # Jigs
 
-The [jigs/]() folder contains models for 3D-printing useful jigs.
+The [jigs](jigs/) folder contains models for 3D-printing useful jigs.
 
 
 ## License
